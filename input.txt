@@ -1,0 +1,16 @@
+Nick
+Speak
+25
+manager
+Gigi
+Hell
+29
+director
+Kris
+Hem
+22
+laborer
+Dan
+Low
+34
+lawer
